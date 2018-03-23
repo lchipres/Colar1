@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\Coladera\Coladera\bin\Debug\Coladera.exe.config
+C:\Users\USUARIO\source\repos\Coladera\Coladera\bin\Debug\Coladera.exe
+C:\Users\USUARIO\source\repos\Coladera\Coladera\bin\Debug\Coladera.pdb
+C:\Users\USUARIO\source\repos\Coladera\Coladera\obj\Debug\Coladera.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Coladera\Coladera\obj\Debug\Coladera.Form1.resources
+C:\Users\USUARIO\source\repos\Coladera\Coladera\obj\Debug\Coladera.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Coladera\Coladera\obj\Debug\Coladera.csproj.GenerateResource.Cache
+C:\Users\USUARIO\source\repos\Coladera\Coladera\obj\Debug\Coladera.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Coladera\Coladera\obj\Debug\Coladera.exe
+C:\Users\USUARIO\source\repos\Coladera\Coladera\obj\Debug\Coladera.pdb
